@@ -13,3 +13,10 @@
 
 ![image](https://github.com/Codermex-freelance/BuscadorClima/assets/143505447/aa4cdbf0-03a7-4a65-8c25-7a4c1ed70a8c)
 
+### Instalación
+
+1. Clona el repositorio
+
+   ```
+   git clone https://github.com/Codermex-freelance/BuscadorClima.git
+   ```
