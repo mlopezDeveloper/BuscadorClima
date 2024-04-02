@@ -4,14 +4,10 @@
   ![Static Badge](https://img.shields.io/badge/TAILWIND-blue)
   ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow)
 </h1>
-<div>
   
    ```sh
   API: https://openweathermap.org/
   ```
-
-  Api utilizado: https://openweathermap.org/
-</div>
 
 ![image](https://github.com/Codermex-freelance/BuscadorClima/assets/143505447/01c63a2a-25a8-4286-b6a7-b46e784b1919)
 
