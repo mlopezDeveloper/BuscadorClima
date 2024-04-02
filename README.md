@@ -5,6 +5,11 @@
   ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow)
 </h1>
 <div>
+  
+   ```sh
+  OpenWeather
+  ```
+
   <p>Api utilizado: <a href="https://openweathermap.org/">OpenWeather</a></p>
 </div>
 
