@@ -5,7 +5,7 @@
   ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow)
 </h1>
   
-   ```sh
+   ```
   API: https://openweathermap.org/
   ```
 
