@@ -7,7 +7,7 @@
 <div>
   
    ```sh
-  [OpenWeather](https://openweathermap.org/)
+  API: <a href="https://openweathermap.org/">OpenWeather</a>
   ```
 
   <p>Api utilizado: <a href="https://openweathermap.org/">OpenWeather</a></p>
